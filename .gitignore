@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+
+.env
+wp-content/plugins
+!wp-content/plugins/easy-email-templates
+wp-content/themes
